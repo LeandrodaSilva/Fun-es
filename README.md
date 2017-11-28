@@ -32,3 +32,7 @@ link: https://www.vivaolinux.com.br/script/Barra-de-Loading-no-console
 Função gotoxy para controlar posição do cursor feito com scape code em C
 
 link: https://www.quora.com/What-is-gotoxy-function-used-in-c
+
+Sequência de escapes em C
+
+link: https://en.wikipedia.org/wiki/Escape_sequences_in_C
