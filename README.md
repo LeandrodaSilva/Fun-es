@@ -25,4 +25,10 @@ link: https://daemoniolabs.wordpress.com/2012/12/27/brincando-com-termios-h-getc
 
 
 Barra de progresso em C.
+
 link: https://www.vivaolinux.com.br/script/Barra-de-Loading-no-console
+
+
+Função gotoxy para controlar posição do cursor feito com scape code em C
+
+link: https://www.quora.com/What-is-gotoxy-function-used-in-c
