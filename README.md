@@ -22,3 +22,7 @@ link: https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85)
 Simular a função getch do windows no linux e mac.
 
 link: https://daemoniolabs.wordpress.com/2012/12/27/brincando-com-termios-h-getc-e-kbhit-no-linux/
+
+
+Barra de progresso em C.
+link: https://www.vivaolinux.com.br/script/Barra-de-Loading-no-console
